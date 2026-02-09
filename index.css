@@ -1,0 +1,23 @@
+body{
+    background-color: #202020;
+}
+
+.button{
+    display: block;
+    margin: 10px auto;
+    width: 400px;
+    height: 60px;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 20px;
+}
+
+.lb{
+    text-align: center;
+    color: white;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+section{
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+}
